@@ -6,6 +6,7 @@ public class Cn {
 		System.out.println("first page");
 		System.out.println("first page");
 		System.out.println("   f3 ");
+		System.out.println("f4");
 
 	}
 
